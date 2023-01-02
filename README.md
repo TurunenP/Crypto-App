@@ -55,8 +55,8 @@ $ yarn add axios
 Using pnpm:
 $ pnpm add axios
 
-### Crpto API (free)
-https://www.coingecko.com/en/api/documentation
+### Crypto API (free)
+Crypto API were fetched from: [https://www.coingecko.com/en/api/documentation]
 
 ## Learn More
 
