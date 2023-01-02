@@ -42,6 +42,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### Packages needed to run
 
 https://www.npmjs.com/package/axios
+
+Using npm: 
 $ npm install axios
 
 Using bower:
