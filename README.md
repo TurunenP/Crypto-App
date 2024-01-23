@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# React Cryptocurrency App
+
+## Overview
+
+Consolidating RESTFUL calls from the CoinGecko API into a React application. I'll be using v3 of the API (the most recent version at the time of starting this project).
+
+## HomePage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Getting started
+Clone the repository on a directory of your choice.
+
+
+### Prerequisites
+
+Before running the application, make sure you have the following installed:
+
+- Node.js and npm (Node Package Manager)
+- Git (optional)
 
 ## Available Scripts
 
@@ -58,36 +76,12 @@ $ pnpm add axios
 ### Crypto API (free)
 Crypto API were fetched from: [https://www.coingecko.com/en/api/documentation]
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributor
+This project was developed by:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
+- [@TurunenP](https://github.com/TurunenP): Backend, Frontend & documentation 
 
 
 
