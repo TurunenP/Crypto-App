@@ -15,7 +15,7 @@ Consolidating RESTFUL calls from the CoinGecko API into a React application. I'l
 
 - [(CSS)](https://web.dev/learn/css/): CSS was responsible for controlling the presentation and layout of web pages as well as implementation of responsiveness and media queries.
 
-- [(API)]([https://www.coingecko.com/en/api/documentation]): Crypto API were fetched from the free API.
+- [(API)](https://www.coingecko.com/en/api/documentation) Crypto API were fetched from the free API.
 
 
 ## Getting started
@@ -75,9 +75,7 @@ Create a pull request
 ## Developed by:
 This project was developed by:
 
-Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/Crypto-App)
-
+Name: Purity Turunen - (@TurunenP](https://github.com/TurunenP/Crypto-App)
+https://github.com/TurunenP/Crypto-App
 Feel free to contribute to the project by submitting a pull request.
-
-
 
