@@ -76,6 +76,8 @@ Create a pull request
 
 This project was developed by:
 
-Name: Purity Turunen - [**@TurunenP**](https://github.com/TurunenP/Crypto-App)
+Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/Crypto-App)
+Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/Crypto-App)
+Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/ElegantShoes.git)
 
 Feel free to contribute to the project by submitting a pull request.
