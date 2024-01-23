@@ -15,7 +15,7 @@ Consolidating RESTFUL calls from the CoinGecko API into a React application. I'l
 
 - [(CSS)](https://web.dev/learn/css/): CSS was responsible for controlling the presentation and layout of web pages as well as implementation of responsiveness and media queries.
 
-- [(API)]([https://www.mulesoft.com/resources/api/what-is-an-api](https://www.coingecko.com/en/api#)): The static API data is defined within the client-side codebase, specifically in the data.js file. This data is bundled with the client-side JavaScript code when the application is built and deployed. It's used by the client-side React components to populate and render product listings on the user interface.
+- [(API)]([https://www.coingecko.com/en/api/documentation]): Crypto API were fetched from the free API.
 
 
 ## Getting started
@@ -60,8 +60,6 @@ $ yarn add axios
 Using pnpm:
 $ pnpm add axios
 
-### Crypto API (free)
-Crypto API were fetched from: [https://www.coingecko.com/en/api/documentation]
 
 ## Contributing
 
@@ -77,7 +75,9 @@ Create a pull request
 ## Developed by:
 This project was developed by:
 
-- [@TurunenP](https://github.com/TurunenP)
+Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/Crypto-App)
+
+Feel free to contribute to the project by submitting a pull request.
 
 
 
