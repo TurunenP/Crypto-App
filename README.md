@@ -71,15 +71,3 @@ Make changes and commit (git commit -am 'Add new feature')
 Push to the branch (git push origin feature/new-feature)
 Create a pull request
 
-
-## Developed by:
-This project was developed by:
-
-- [@TurunenP](https://github.com/TurunenP)
-
-Feel free to contribute to the project by submitting a pull request.
-
-- [@Shaik-Chapal](https://github.com/Shaik-Chapal): Backend & Frontend
-- [@TurunenP](https://github.com/TurunenP): Backend, Frontend & documentation  
-- [@Kweche-Ebechue-Divine](https://github.com/Kweche-Ebechue-Divine): Frontend & Documentation
-- [@mannizz65](https://github.com/mannizz65t): Thingsee Mobile application
