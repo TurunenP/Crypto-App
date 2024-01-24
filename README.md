@@ -73,7 +73,6 @@ Create a pull request
 
 
 ## Developed by:
-
 This project was developed by:
 
 - [@TurunenP](https://github.com/TurunenP)
