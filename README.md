@@ -70,13 +70,3 @@ Create a new branch (git checkout -b feature/new-feature)
 Make changes and commit (git commit -am 'Add new feature')
 Push to the branch (git push origin feature/new-feature)
 Create a pull request
-
-
-
-
-
-
-
-
-## Getting started
-Clone the repository on a directory of your choice.
