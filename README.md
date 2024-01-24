@@ -76,7 +76,6 @@ Create a pull request
 
 This project was developed by:
 
-Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/Crypto-App)
-Name: Purity Turunen - [@https://github.com/TurunenP](https://github.com/TurunenP/Crypto-App)
+- [@TurunenP](https://github.com/TurunenP)
 
 Feel free to contribute to the project by submitting a pull request.
